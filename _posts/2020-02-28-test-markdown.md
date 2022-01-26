@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: New Title
 title: Digital Black Atlantic
 subtitle: Each post also has a subtitle
 ## Big header
