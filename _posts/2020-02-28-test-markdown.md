@@ -1,6 +1,6 @@
 ---
-layout: New Title
-title: Digital Black Atlantic
+layout: post
+title: Digital Black TransAtlantic
 subtitle: Each post also has a subtitle
 ## Big header
 ### little header
