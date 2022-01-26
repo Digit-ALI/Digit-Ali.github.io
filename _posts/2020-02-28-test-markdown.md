@@ -2,7 +2,7 @@
 layout: post
 title: Digital Black Atlantic
 subtitle: Each post also has a subtitle
-## header
+## Big header
 ### little header
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
