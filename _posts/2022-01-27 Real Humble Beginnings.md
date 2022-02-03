@@ -1,3 +1,14 @@
+---
+layout: post
+title: Real Humble Beginnings
+subtitle: Lab 1 
+
+gh-repo: Digit-ALI/Digit-Ali.github.io
+gh-badge: [star, fork, follow]
+tags: [labs]
+comments: true
+---
+
 Description of Lab 1: We created our websites and repositories on Github.com. I learned some basic steps for creating a website, such as selecting a theme, forking my repository to Github, and understanding the main branch and its components. Here in the interface, I changed titles under _ Config.yml, learned code to make headers and subheaders. Going through these processes, put into perspective the plaint text HTML that is behind many websites. I think this was the most empowering part of the lesson. While I am new to coding and DH studies, making something feels great and encourages me to use these tools in research. What is also striking about working in the repository is seeing your progress, edits, and errors. The repository allows one to keep track of your progress effortlessly, which is great for reflection and seeing how you learn. Also, knowing the proper vocabulary for things will be beneficial as I progress through the labs. Nothing was complicated per se; however, I was getting an error message due to my title being wrong, so I inserted double quotes to fix the issue. 
 
 This week's discussed readings challenged my thinking about the intersections of digital humanities and historical scholarship by examining what is "data" and its evolution over the past centuries. I was challenged to think about how previous historical actors, such as ship captains, kept logs or how plantation owners kept track of the number of enslaved people they owned. Those recordings are all data, however, "The concept of data specific to electronic computing is a 20th-century phenomenon, but data itself was used for millennia, perhaps without our understanding of this newer concept." (Rosenberg) While understanding data's evolutionary process is essential to the etymology and origins, the question of "what is data" still loomed. Rosenberg's article carefully engaged with how we understand data by deconstructing how it comes to exist and what it is used for when providing information.
